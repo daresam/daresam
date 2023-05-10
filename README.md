@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daresam
 - 👀 I’m interested in Javascript and all
 - 🌱 I’m currently learning to build fullstack React apps!
-- 💼 My past projects on my Portfolio: https://daresam.surge.sh/
+- 💼 My past projects on my Portfolio: https://daresamuel.surge.sh/
 - 📫 How to reach me: https://www.linkedin.com/in/daresam/
 
 <!---
